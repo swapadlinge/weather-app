@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.app div{
+  height:150px;
+}
+
+.min-max{
+    height:80px !important;
+}
